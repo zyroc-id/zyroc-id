@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=4500&pause=1000&color=2CA1F7&width=435&lines=Hi+There%F0%9F%91%8B;Welcome+To+Zyroc-Project;Thank+You+For+Visiting;Nice+To+Meet+You!)](https://git.io/typing-svg)
+<h1 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=4500&pause=1000&color=2CA1F7&width=435&lines=Hi+There%F0%9F%91%8B;Welcome+To+Zyroc-Project;Thank+You+For+Visiting;Nice+To+Meet+You!!" alt="Typing SVG" /></a>
+</h1>
